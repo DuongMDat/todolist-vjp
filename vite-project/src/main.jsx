@@ -11,7 +11,7 @@ import Home from './Component/Home';
 import PrivateRouter from './Private/PrivateRouter';
 import Login from './Component/Login';
 import Detail from './Component/Details';
-import Layout from './assets/Layout/Layout';
+import Layout from './Layout/Layout';
 const router = createBrowserRouter([
   {
     path: "/",
